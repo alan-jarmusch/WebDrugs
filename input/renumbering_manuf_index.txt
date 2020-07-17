@@ -1,0 +1,13 @@
+number_man	manufacturer
+1	CIPLA LTD
+2	Combitic Global Caplet PVT. LTD.
+3	Healing Pharma
+4	Laborate Pharmaceuticals India LTD.
+5	pharose remedies Ltd.
+6	 fortune health care
+7	Signature Phytochemical Industries
+8	Naman Pharma Drugs
+9	Skohind Labs strategic alliance with Rousel Laboratories
+10	uni medicolabs
+11	Medreich limited
+12	Centurion Laboratories PVT. LTD.
